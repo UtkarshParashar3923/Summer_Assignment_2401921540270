@@ -1,7 +1,6 @@
 class Solution {
 public:
     string decodeString(string s) {
-
         stack<int> countStack;
         stack<string> stringStack;
 
